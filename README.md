@@ -1,2 +1,17 @@
-# task4-REST-API
-A lightweight Flask-based REST API for managing user data, storing records in-memory. Includes CRUD operations and is testable via Postman or curl. Built as part of my internship project.
+# Flask User Management API
+
+A simple REST API built with Flask to manage user data in-memory.  
+Testable with Postman or cURL.
+
+## Features
+- Add a new user (POST /users)
+- Get all users (GET /users)
+- Get user by ID (GET /users/<id>)
+- Update user (PUT /users/<id>)
+- Delete user (DELETE /users/<id>)
+
+## Tools Used
+- PyCharm Community Edition
+- Flask
+- Postman
+- curl
