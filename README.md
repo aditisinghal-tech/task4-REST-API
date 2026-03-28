@@ -14,4 +14,5 @@ Testable with Postman or cURL.
 - PyCharm Community Edition
 - Flask
 - Postman
-- curl
+- cURL
+
